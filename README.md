@@ -18,4 +18,5 @@ Crearemos una app donde la usuaria pueda ingresar sus datos de compradores poten
 Se busca darle seguridad al proyecto mediante un proceso de registro y autenticación de usuario a partir de una cuenta de correo que será autentificada y autorizada por tecnología firebase. Además de un encriptamiento de la base de datos de entrenamiento y la base de datos producida por la app web.
 
 ## Prototipo  web app
-![Pantalla1](../imagenes/Pantalla1.png)
+![Pantalla1](imagenes/Pantalla1.png)
+![Pantalla2](imagenes/Pantalla2.png)
