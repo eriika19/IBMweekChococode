@@ -6,6 +6,16 @@ body {
   background-size: cover;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+#p1{
+  color: white;
+  padding-left: 25%;
+}
+
+
+
+
+
 #inovai{
   background-color: black;
   height: 20vh;
